@@ -163,7 +163,7 @@ if __name__ == '__main__':
     parser.add_argument('--api_key', type=str, default=None)
     parser.add_argument('--no_cifs', action='store_true')
     parser.add_argument('--mp_ids', type=str, default='csvs/mpids_sample.csv')
-    parser.add_argument('--output', type=str, default='data/sample')
+    parser.add_argument('--output', type=str, default='sample')
     args = parser.parse_args()
 
     # Get API key from hidden file

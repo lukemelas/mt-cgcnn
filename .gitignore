@@ -2,6 +2,7 @@
 data/materials_project
 checkpoints/*
 .api_key.txt
+mt-cgcnn
 
 
 # # Byte-compiled / optimized / DLL files
