@@ -1,0 +1,6 @@
+=> loading model params 'pre-trained/formation-energy-per-atom.pth.tar'
+=> loaded model params 'pre-trained/formation-energy-per-atom.pth.tar'
+=> loading model 'pre-trained/formation-energy-per-atom.pth.tar'
+=> loaded model 'pre-trained/formation-energy-per-atom.pth.tar' (epoch 968, validation 0.03972001800748568)
+Test: [0/1]	Time 3.496 (3.496)	Loss 0.0020 (0.0020)	MAE 0.030 (0.030)
+ ** MAE 0.030
